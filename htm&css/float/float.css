@@ -1,0 +1,19 @@
+*{margin:0;box-sizing: border-box;}
+body {
+      
+      background-color: #f2f0f0;
+      padding: 20px;
+    }
+.br-30{border-radius: 30px;}
+.br-50p{border-radius: 50%;}
+.m-10{margin: 10px;}
+.right{float:right;}
+.left{float: left;}
+.clearfix::after{content: "";
+  clear:both;
+  display: table;
+  overflow:auto;}
+
+.square{width:200px;height: 200px;background-color: rgb(0, 255, 174);}
+.img1{width:200px;
+      height:200px}

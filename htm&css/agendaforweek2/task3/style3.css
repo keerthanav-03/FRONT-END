@@ -1,0 +1,29 @@
+body{font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: rgb(91, 93, 241);}
+form{width: 800px;
+    margin: 30px auto;
+    margin-top:100px;
+    background-color: rgb(255, 255, 255);
+    padding:0px;
+    border:1px solid black;
+    border-radius:10px;}
+button{background-color: rgba(70, 176, 247, 0.953);
+       border-radius:8px;
+        padding: 10px;
+        width:150px;
+        margin-top:15px;
+        margin: bottom 15px;}
+button-hover{background-color:rgb(75, 75, 227);}
+input{width:200px;
+    padding:10px;
+    border: 1px solid black;
+    border-radius: 10px;
+    placeholder{color:rgb(214, 212, 212);}}
+
+label{}
+h1{font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;}
+u{color: blue;}
+td,th{padding-left:20px;
+    padding-bottom:5px;
+    padding: right 20px;
+    padding-top:5px;}

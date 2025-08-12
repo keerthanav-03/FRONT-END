@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>grid</title>
+    <style>
+         .gcontainer
+        {
+            display: grid;
+            grid-template-columns: auto auto auto auto;
+            background-color: rgb(232, 169, 243);
+            padding: 0px;
+            height: 800px;
+        }
+        .gcontainer > div{
+            background-color: rgb(196, 194, 197);
+            align-content: center;
+            padding: 0px;
+            text-align: center;
+            border: 2px solid black;
+            font-size: 2rem;
+            color: whitesmoke;
+            font-weight: 700;
+        }
+
+    </style>
+</head>
+<body>
+    <div class="gcontainer">
+        <div>1</div>
+        <div>2</div>
+        <div>3</div>
+        <div>4</div>
+        <div>5</div>
+        <div>6</div>
+        <div>7</div>
+        <div>8</div>
+        <div>9</div>
+    </div>    
+</body>
+</html>

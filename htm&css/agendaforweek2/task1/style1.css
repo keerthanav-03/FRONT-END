@@ -1,0 +1,14 @@
+*{margin:0;box-sizing: border-box;}
+body {
+  background-image: url('bg.PNG');
+  background-repeat: no-repeat;
+  background-attachment: fixed; 
+  background-size: 100% 100%;
+}
+h1{font-family: "Montserrat", sans-serif; font-size:5rem; text-align:center;color:#fc6092;}
+h2{color:#f3f73d;}
+h3{color:#cd3bf1;}
+p{font-family: "Work Sans", sans-serif; font-size:16px;color:#000000}
+img{width:100%;}
+.container{width:60%; margin:auto;}
+					
